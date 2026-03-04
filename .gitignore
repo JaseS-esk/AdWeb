@@ -1,0 +1,11 @@
+# Sadece markdown dosyaları push edilir
+# EXE dosyası GitHub Releases üzerinden eklenir (100MB sınırı aşıyor)
+*.exe
+*.spec
+
+# Runtime
+.env
+*.log
+data/
+logs/
+backend/
