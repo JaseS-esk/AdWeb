@@ -115,4 +115,6 @@ Tüm `subprocess.run()` çağrıları `CREATE_NO_WINDOW` flag'i ile çalışıyo
 
 > Bu proje, kurumsal Active Directory yönetimini modern web teknolojileriyle birleştiren, güvenli ve kullanımı kolay bir çözüm sunmak amacıyla geliştirilmiştir.
 
+muraterolesk@gmail.com
+
 ---
