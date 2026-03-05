@@ -17,6 +17,8 @@
 | ⚡ **Toplu İşlem** | Çoklu kullanıcı üzerinde aynı anda işlem yapma |
 | 📈 **Dashboard** | Gerçek zamanlı AD istatistikleri ve aktivite akışı |
 | 🔐 **HWID Lisanslama** | Donanım bazlı lisans sistemi ile yetkisiz kullanım önleme |
+| 🔐 **Lisans Key** | Hwid yi nizi "muraterolesk@gmail.com" göndererek alabilirsiniz.  |
+<img width="687" height="616" alt="lic" src="https://github.com/user-attachments/assets/5e1e97da-0125-4038-aa89-15f2505181e9" />
 
 ---
 
